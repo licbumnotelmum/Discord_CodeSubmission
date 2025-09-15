@@ -3,11 +3,11 @@
 
 ## *To run the code:*
   step 1: create a `.env` file with certain values \n
-    TOKEN=<discord bot token>
-    HOST=<host for MySqlDb>
-    DBUSER=<MySqlDb user>
-    DBPASS=<password for DBUSER>
-    DATABASE=<Database Name>
+    TOKEN={Your Discord Bot Token
+    HOST={host for MySqlDb}
+    DBUSER={MySqlDb user}
+    DBPASS={password for DBUSER}
+    DATABASE={Database Name}
   Step 2:
     (Keep In Mind the table fields except the Qn fields are to be kept as it is for the queries to perform)
     configure `MySqlSetup.py` crTeamQ function and crTimeSt function to have Question fields according to your liking 

@@ -2,7 +2,7 @@
 ## A bot that helped me automate the process of collecting the codes of different participants in a competation
 
 ## *To run the code:*
-  step 1: create a `.env` file with certain values
+  step 1: create a `.env` file with certain values \n
     TOKEN=<discord bot token>
     HOST=<host for MySqlDb>
     DBUSER=<MySqlDb user>
